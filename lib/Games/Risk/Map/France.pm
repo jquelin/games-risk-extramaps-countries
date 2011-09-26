@@ -1,8 +1,20 @@
+#
+# This file is part of Games-Risk-ExtraMaps-Countries
+#
+# This software is Copyright (c) 2011 by Jerome Quelin.
+#
+# This is free software, licensed under:
+#
+#   The GNU General Public License, Version 3, June 2007
+#
 use 5.010;
 use strict;
 use warnings;
 
 package Games::Risk::Map::France;
+{
+  $Games::Risk::Map::France::VERSION = '1.112690';
+}
 # ABSTRACT: France
 
 use Moose;
@@ -249,8 +261,36 @@ no Moose;
 __PACKAGE__->meta->make_immutable;
 
 1;
-__END__
+
+
+=pod
+
+=head1 NAME
+
+Games::Risk::Map::France - France
+
+=head1 VERSION
+
+version 1.112690
 
 =head1 DESCRIPTION
 
 France by Thierry Baldo.
+
+=head1 AUTHOR
+
+Jerome Quelin
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2011 by Jerome Quelin.
+
+This is free software, licensed under:
+
+  The GNU General Public License, Version 3, June 2007
+
+=cut
+
+
+__END__
+
