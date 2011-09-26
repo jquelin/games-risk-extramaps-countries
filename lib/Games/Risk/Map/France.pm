@@ -13,7 +13,7 @@ use warnings;
 
 package Games::Risk::Map::France;
 {
-  $Games::Risk::Map::France::VERSION = '1.112690';
+  $Games::Risk::Map::France::VERSION = '3.112691';
 }
 # ABSTRACT: France
 
@@ -271,7 +271,7 @@ Games::Risk::Map::France - France
 
 =head1 VERSION
 
-version 1.112690
+version 3.112691
 
 =head1 DESCRIPTION
 

@@ -19,10 +19,10 @@ name: Games-Risk-ExtraMaps-Countries
 provides:
   Games::Risk::ExtraMaps::Countries:
     file: lib/Games/Risk/ExtraMaps/Countries.pm
-    version: 1.112690
+    version: 3.112691
   Games::Risk::Map::France:
     file: lib/Games/Risk/Map/France.pm
-    version: 1.112690
+    version: 3.112691
 requires:
   Games::Risk::ExtraMaps: 0
   Games::Risk::Map: 0
@@ -36,7 +36,7 @@ resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Games-Risk-ExtraMaps-Countries
   homepage: http://search.cpan.org/dist/Games-Risk-ExtraMaps-Countries/
   repository: git://github.com/jquelin/games-risk-extramaps-countries.git
-version: 1.112690
+version: 3.112691
 x_Dist_Zilla:
   plugins:
     -

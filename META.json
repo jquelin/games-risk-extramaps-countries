@@ -47,11 +47,11 @@
    "provides" : {
       "Games::Risk::ExtraMaps::Countries" : {
          "file" : "lib/Games/Risk/ExtraMaps/Countries.pm",
-         "version" : "1.112690"
+         "version" : "3.112691"
       },
       "Games::Risk::Map::France" : {
          "file" : "lib/Games/Risk/Map/France.pm",
-         "version" : "1.112690"
+         "version" : "3.112691"
       }
    },
    "release_status" : "stable",
@@ -67,7 +67,7 @@
          "web" : "http://github.com/jquelin/games-risk-extramaps-countries"
       }
    },
-   "version" : "1.112690",
+   "version" : "3.112691",
    "x_Dist_Zilla" : {
       "plugins" : [
          {
